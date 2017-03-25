@@ -34,7 +34,7 @@
 <div id="fullpage">
 	<section class="main section">
 	<x-gif src="img/ic1.gif"></x-gif>
-	<div class="slider">
+	<div class="sliderr">
 		<div class="content">
 			<div class="quad top-left-quad"></div>
 			<div class="quad top-right-quad"></div>
