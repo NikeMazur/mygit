@@ -27,7 +27,7 @@
 			<li data-menuanchor="thirdPage"><a href="#thirdPage">Услуги</a></li>
 			<li data-menuanchor="fourPage"><a href="#fourPage">Контакты</a></li>
 		</ul>
-		<a href="#" class="more">больше проектов</a>
+		<a href="#r" class="more">больше проектов</a>
 		<a href="#" class="more">больше2 проектов</a>
 	</div>
 </aside>
